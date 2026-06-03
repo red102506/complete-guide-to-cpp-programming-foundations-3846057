@@ -2,6 +2,8 @@
 // Exercise 01_02
 // Hello World, by Eduardo Corpeño 
 
+
+//  Example One
 /*
 // First Example for "Hello, World!"
 
@@ -16,6 +18,7 @@ int main()                      // Main function for the code
 }
 */
 
+//  Example Two
 /*
 // Second example for "Hello, World!"
 #include <cstdio>
@@ -27,6 +30,8 @@ int main()
 }
 */
 
+//  Example Three
+/*
 #include <iostream>
 
 int main(int argc, char* argv[]) // argc = integer that represents the number of command line arguments passed to the program. argv = array of C-style strings representing those arguments
@@ -34,3 +39,4 @@ int main(int argc, char* argv[]) // argc = integer that represents the number of
     std::cout << "Hi There!" << std::endl;
     return 0;
 }
+*/
